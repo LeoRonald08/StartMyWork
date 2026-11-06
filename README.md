@@ -78,3 +78,23 @@ $$
     3. 求 $B$ 的表面积 $S$。
 
 8.  (10 分) 设函数 $f(x) = x^8 - x^4 - \cos x$，$x \in \mathbb{R}$。判断 $f(x)$ 在 $\mathbb{R}$ 上有多少个零点，给出证明。
+
+
+# Math Test
+
+行内公式：$a^2+b^2=c^2$
+
+独立公式：
+
+$$
+\lim_{n\to\infty}\frac{1}{n}=0
+$$
+
+多行公式：
+
+$$
+\begin{aligned}
+(a+b)^2 &= a^2+2ab+b^2\\
+(a-b)^2 &= a^2-2ab+b^2
+\end{aligned}
+$$
