@@ -23,10 +23,11 @@ $$
         $$
 
 2.  (10 分) 求函数极限。
-
-    1.  $$
+    1.
+        $$
         \lim_{x \to 4} \frac{\sqrt{2x+1} - 3}{\sqrt{x-2} - \sqrt{2}}
         $$
+      
     2.  $$
         \lim_{x \to +\infty} (\sin \sqrt{x+1} - \sin \sqrt{x})
         $$
